@@ -1,0 +1,16 @@
+# Gigadrive EditorConfig
+
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+charset = utf-8
+
+[*.{php,js,java,ts,jsx,tsx,scss,css,py,json}]
+indent_style = tab
+indent_size = 4
+
+[*.{yaml,yml}]
+indent_size = 4
+indent_style = space
