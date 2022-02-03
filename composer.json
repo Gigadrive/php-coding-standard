@@ -2,7 +2,7 @@
 	"name": "gigadrive/php-coding-standard",
 	"type": "library",
 	"description": "The PHP Coding Standard for Gigadrive projects - Integrates with PHP CS Fixer",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"license": "MIT",
 	"homepage": "https://github.com/Gigadrive/php-coding-standard",
 	"require-dev": {
