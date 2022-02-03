@@ -44,8 +44,8 @@ return (new PhpCsFixer\Config())
 		'class_attributes_separation' => true,
 		'class_definition' => true,
 		'final_class' => false, // PHP 8 attributes are not detected as entities
-		'final_internal_class' => true,
-		'final_public_method_for_abstract_class' => true,
+		'final_internal_class' => false,
+		'final_public_method_for_abstract_class' => false,
 		'no_blank_lines_after_class_opening' => true,
 		'no_null_property_initialization' => true,
 		'no_php4_constructor' => true,
