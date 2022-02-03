@@ -225,5 +225,4 @@ return (new PhpCsFixer\Config())
 		'types_spaces' => true
 	])
 	->setIndent("\t")
-	->setLineEnding("\n")
-	->setFinder($finder);
+	->setLineEnding("\n");
